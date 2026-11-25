@@ -1,4 +1,4 @@
-# Noise field experiments
+# Behavioral Selection and Blending through Noise Fields as an Abstract Model of Neuromodulation
 
 Code for Figures 1–6 and 8 of the paper "Behavioral Selection and Blending through Noise Fields as an Abstract Model of Neuromodulation". 
 
