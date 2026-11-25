@@ -1,0 +1,18 @@
+{
+  "commit": "51fbdce03c2ff680b4230071f826caed26d021ba",
+  "frozen_sha256": {
+    "LICENSE": "b9b4c749f74b819fd32e10dc5982476a955a089a36b3854dbb71280710b5246d",
+    "nnn/__init__.py": "6f170cad997ec1c517498e9590c14c0a1a299270a285990c6180d2bed3c9f3cd",
+    "nnn/activation.py": "dd3797fbfeae4568bed37167ba0f53c519e5ab69f8b5be3ed5b6cc7dc6345cca",
+    "nnn/layer.py": "81fb1fe4ef67a0928d97fab15aaaf9558fd7720ab543607dd0f830365a913164",
+    "nnn/model.py": "a19e7b17d9857db949447da0099d4729a5e45c7eab2faa3d7575e878b8abc40c",
+    "nnn/noise.py": "cf49dbd20deb534570e30775097f1f115f75752c3ee097288fd223bdbd079ec8",
+    "nnn/stats.py": "ad53aa8da54a23820f011fe7ff498df3885cdc9c9b636fcc270c2897d91f0b56",
+    "tmp/neuromod/__init__.py": "57c663e70b0f686c86dc2a0b55c77dc43225216bab985ea28c49ca59dc187a8d",
+    "tmp/neuromod/fields.py": "93fae38c721d51a2e451a7d36f9a5116029985b67031154e06ab2c85f4d7e646",
+    "tmp/neuromod/protocol.py": "f8c6ec09d6ba3c752bf7326ab1a24260e802cca934425042787bcc9b7a6ce7b2",
+    "tmp/neuromod/world.py": "d3f4ad9a0e06bbfa2059f29ce0dbc31c02d1416374182c24cda6e4d89c055cb9",
+    "tmp/neuromod_tolerance.py": "a424abbc2dfe6d8afd6fda5682fc8d2c51fcce0c84b02f1166726e1f128e2c77",
+    "tmp/neuromod_ethogram.py": "ada3f45d90d2326745c475e539924de238fdcbd0174fd6c1321041531b4417d1"
+  }
+}
